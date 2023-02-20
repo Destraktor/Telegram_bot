@@ -21,3 +21,7 @@ Telegram Bot with SQLite database authorization
 ### Pycharm:
 * Open your bot folder with Pycharm and if you have the "Current file" setting, open main.py and click start (green arrow) \
 ![image](https://user-images.githubusercontent.com/46675878/220087279-5774fbc7-5bb2-4c64-92e2-c13419169500.png)
+
+### Command Deck:
+* cd your_path_to_folder
+* * python main.py
