@@ -23,8 +23,9 @@ Telegram Bot with SQLite database authorization
 ![image](https://user-images.githubusercontent.com/46675878/220087279-5774fbc7-5bb2-4c64-92e2-c13419169500.png)
 
 ### Command Deck:
-#### Windows:
+#### Windows and Linux:
 ```
 cd your_path_to_folder
 python main.py
 ```
+> On Linux you might not have "python main.py" work, try "python3 main.py"
