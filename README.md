@@ -16,3 +16,8 @@ Telegram Bot with SQLite database authorization
 ### Create_bot.py
 * _sqlite3.connect_ - here is the path to your database file \
 ![image](https://user-images.githubusercontent.com/46675878/220084950-576456e6-ca75-4272-9b90-896c9a6df344.png)
+
+## Launch
+### Pycharm:
+Open your bot folder with Pycharm and if you have the "Current file" setting, open main.py and click start (green arrow) \
+![image](https://user-images.githubusercontent.com/46675878/220087279-5774fbc7-5bb2-4c64-92e2-c13419169500.png)
