@@ -8,6 +8,6 @@ Telegram Bot with SQLite database authorization
 * Create_bot - "Create bot" itself
 * Main - bot launch
 
-## Configuration
+## Configuration:
 ### Config.py
 * _telegram_bot_token_ - here is your bot's API TOKEN
