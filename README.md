@@ -9,5 +9,5 @@ Telegram Bot with SQLite database authorization
 * Main - bot launch
 
 ## Configuration
-# Config.py
-** _telegram_bot_token_ - here is your bot's API TOKEN
+### Config.py
+* _telegram_bot_token_ - here is your bot's API TOKEN
