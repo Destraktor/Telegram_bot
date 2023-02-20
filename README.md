@@ -10,9 +10,9 @@ Telegram Bot with SQLite database authorization
 
 ## Configuration:
 ### Config.py
-* _telegram_bot_token_ - here is your bot's API TOKEN
+* _telegram_bot_token_ - here is your bot's API TOKEN \
 ![image](https://user-images.githubusercontent.com/46675878/220084156-182fdda7-b472-4d80-9d58-cc2ad39f5a5f.png)
 
 ### Create_bot.py
-* _sqlite3.connect_ - here is the path to your database file
+* _sqlite3.connect_ - here is the path to your database file \
 ![image](https://user-images.githubusercontent.com/46675878/220084950-576456e6-ca75-4272-9b90-896c9a6df344.png)
